@@ -1,0 +1,77 @@
+The legal regulation of hate speech is one of the challenges that modern European states have to face in order to maintain security in dense, multicultural societies.
+The lack of timely state or society responses to hate speech can be fraught with the threat of ethnic or religious clashes.
+At the same time, the freedom of speech is a value that has been enshrined into many constitutions in order to guarantee citizens the ability to express their thoughts and ideas freely. 
+In some countries, the suppression of this fundamental right has also proved itself as a conflict-prevention tool. 
+The January 2015 attack on the French satirical magazine Charlie Hebdo violently reawakened these debates on the policing of hate speech.
+In the Russian socio-legal context, the backlash from the Charlie Hebdo attack brought about the assumption that such an atrocity would not have happened in Russia due to the existing legislative mechanisms for hate speech regulation. 
+The Russian Federal Service for the Supervision of Communications and Mass Media swiftly issued a clarification: “disseminating religious cartoons in the media can be considered…as offending or humiliating for representatives of religious confessions and groups, and is qualified as inciting ethnic and religious hatred.” 
+Drawing on my lengthy research into hate speech in Russia, I will reflect on the word as a crime and object of forensic expertise in Russian courts. 
+The increasing prominence of forensic linguistics is deeply problematic. 
+Are Russian courtrooms uncritically accepting expert but highly subjective advice? 
+Are the decision-makers privileging certain kinds of expertise over other evidence?
+The responsibility of the linguist
+
+A characteristic feature of hate speech regulation in Russia is the frequent deployment of forensic linguistics during pretrial investigations and trial hearings. 
+According to information distributed by SOVA Information and Analysis Center, which has been monitoring hate speech and hate crimes since 2002, around three to four court rulings on hate speech are issued each week across the country. 
+The overwhelming majority of these cases involve a linguistics expert, who is summoned to court in order to approve or disapprove the investigator's evidence of hate speech. 
+Sometimes whole groups of academics take part, and they often reach contrary conclusions.
+
+The role of linguistic expertise in court is rooted in an official acknowledgement. 
+The legal grounds are laid out in the 2001 Federal Law “About Russian State Expert Action in Court”. 
+And in 2006, linguistic expertise was included in a list of expert examinations performed by the Ministry of Justice. 
+The Ministry of Justice is also responsible for the compilation of the List of Extremist Literature on the basis of court rulings, which as of March 2015 includes 2620 items.
+
+Linguistic expertise in Russian court proceedings is accepted as a proof and may become a decisive factor in favour of imprisonment or acquittal in a hate speech case. 
+This imposes an unconventional obligation on the expert to employ not only his or her professional skills and knowledge but also to use instruments normally deployed by legal professionals.
+
+The Russian linguistics community was not ready for the invitation to take part in criminal procedures in the late 1990s. 
+And so the theoretical basis for understanding hate speech has started to develop only as a consequence of these legal developments. 
+Hate speech has been a rather recent phenomenon in the field of Russian linguistics and is approached more as a socio-legal domain than as a specific concept in and of itself.
+
+Instead, Russian linguists are more accustomed to the study of the speech of conflict, ethnic stereotyping, the linguistic markers of xenophobia, linguistic-cultural or linguistic-social aspects of tolerance and political correctness. 
+The clearest definition of hate speech was set out as late as 2004 by Viktoriya Kuznezova and Elena Sokolova. 
+They described hate speech as the “linguistic means of expressing hostility to some phenomena (cultural, national, ethnic, etc) and to people, who have spiritual values, that are opposite to the author's”.
+
+But the fact that expert advice on hate speech is now in high demand has been corroborated by the establishment of several professional associations of forensic linguistics experts in Russia. 
+The Guild of Linguistic Experts, chaired by Professor Mikhail Gorbanevskiy, was established as a non-governmental organization in 2001 and contributed significantly to the development of the theoretical basis for linguistic expertise.
+
+Putting the linguist on trial
+
+The first thing of note is that the academic community is itself split over the role of linguistic expertise in hate speech regulation. 
+There is a debate over whether expert advice should be used at all as a proof in hate speech cases. 
+The argument against its wide usage claims that if speech incites hatred towards somebody, it is criminal only if this speech act is obvious to anyone, including the judge. 
+If there are doubts over whether this speech is capable of inciting unrest, the speaker cannot be subjected to criminal procedure. 
+This debate is even more acute in cases where the expert’s testimony is built into the foundation of the verdict by the judge, thus shifting the responsibility of making a decision to the linguists.
+
+Another discussion revolves around the collision of expert advice with the actual conclusion. 
+In 2010, a pretrial investigation of hate speech against local authorities in an NGO report entitled “Violation of Ethnic Minorities' Rights in the Krasnodar Region” involved five different pieces of expert advice. 
+Two experts claimed that there was hate speech in the publication. 
+Two of them reasoned that it was absent. 
+The final piece came from a group of specialists from different socio-legal backgrounds which stated the absence of hate speech. 
+This final piece of advice was made the basis of the decision not to launch a criminal prosecution of the author.
+
+A number of logical questions arise. 
+Why do professionals arrive at different conclusions while working with the same text and employing linguistic methods of analysis? 
+On what basis does an investigator or a judge prefer one piece of expert testimony over the others?
+
+There are two core factors that influence linguistic expertise. 
+The first is the subjectivity embedded in the act of interpretation. 
+The second is the individuality of the expert. 
+The theory of influence is based on an assumption that it is natural for a person to interpret a non-discrete reality (life, for example) with the help of discrete categories (words, for example). 
+One and the same event may be described by any individual in a number of ways, often subject to their personality and cultural or educational background. 
+The theory of influence encapsulates the subjectivity at the heart of the process of interpretation. 
+A principle discrepancy between the language structure as a system and non-discrete reality makes the variation in interpretation inevitable.
+
+The second factor is the background of the interpreter or expert, whose personality may influence the content of the expertise. 
+The prominent linguistics researcher and forensics expert Anatoliy Baranov notes that the “opinion of the interpreter is a key factor in the process of linguistic expertise production”. 
+On 22 October 2014 Charlie Hebdo published a picture of a group of pregnant and veiled women crying out for more French welfare. 
+The artist’s intent was to address the recent news of Boko Haram kidnapping and forcing Nigerian girls into sexual slavery. 
+In the Russian legal context, if subjected to linguistic expertise, this picture might have been interpreted as racist because it potentially incites hatred against Muslim women who claim financial support from the government. 
+Another expert might have arrived at the opposite conclusion, taking into account the general pro-immigrant position of Charlie Hebdo and the comic effect that the picture of the pregnant women aimed to achieve: mocking the political right, who are so opposed to welfare for immigrants that they might even extend the blame to the victims of sexual slavery.
+
+Expert advice is in high demand both as a procedural and non-procedural form of action within the regulation of hate speech in Russia. 
+As we have seen, expert advice is frequently used as the core proof of the person's guilt in hate speech cases and is often cited in the court verdict. 
+And in many cases, the central role of expert advice in hate speech cases and the subjective nature of such linguistic expertise are problematic. 
+Legal professionals should be wary of overstating the significance of such testimony, and should be aware of its limitations. 
+Forensic linguistics should be treated as one of several pieces of evidence available. 
+It is high time for the Russian legal system to reassess its relationship with linguistic expertise
