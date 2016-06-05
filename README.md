@@ -12,8 +12,8 @@ Ideas
  - speaking time
  - interruptions
  - applause 
-    - 1) counts of applause, correlation between applause counts and success 
-    - 2) which final sentences receive applause
+    - counts of applause, correlation between applause counts and success 
+    - which final sentences receive applause
  - haiku
  - ways to break up
    - by person
